@@ -1,5 +1,7 @@
 'use strict';
 /*
+for practicing
+
 console.log(document.querySelector('.message').textContent);
 
 document.querySelector('.message').textContent = 'Correct Number!';
@@ -53,6 +55,7 @@ document.querySelector('.btn-check').addEventListener('click', function () {
       document.querySelector('.score').textContent = 0;
     }
   }
+  //this is remove while code factoriazation
   //When guess is too high
   //   } else if (guess > secretNumber) {
   //     if (score > 1) {
